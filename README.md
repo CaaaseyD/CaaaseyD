@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CaaaseyD
 - 👀 I’m interested in coffee, ice cream, different cusines; hiking and snorkeling.
-- 🌱 I’m currently learning css, html, javascript, java and ...
+- 🌱 I’m currently learning ruby, css, html, javascript, java and ...
 - 💞️ I’m looking to collaborate on fun projects
 - 📫 How to reach me, dm me!
 
