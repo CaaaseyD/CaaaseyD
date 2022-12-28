@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @CaaaseyD
-- 👀 I’m interested in coffee, ice cream, different cusines; hiking and snorkeling.
-- 🌱 I’m currently learning ruby, css, html, javascript, java and ...
-- 💞️ I’m looking to collaborate on fun projects
-- 📫 How to reach me, dm me!
-
-<!---
-KaaasieD/KaaasieD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👀 A motivatedWeb Development graduate with formerly 5+ years’ project management experience specialising in event and training projects for FMCG and start-ups.
+- 🌱 html, css, html, javascript, ruby on rails and java...
+- 💞️ Seeking to use proven skills in coding, data and complex problem solving to become a vital member of yourteam and meet business need as a full-stackdeveloper
+- 📫 How to reach me, dm me or send me an email at baimaxsolution@gmail
