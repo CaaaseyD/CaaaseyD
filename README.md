@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CaaaseyD
-- 👀 A motivatedWeb Development graduate with formerly 5+ years’ project management experience specialising in event and training projects for FMCG and start-ups.
+- 👀 A motivated Web Development graduate with formerly 5+ years’ project management experience specialising in event and training projects for FMCG and start-ups.
 - 🌱 html, css, html, javascript, ruby on rails and java...
 - 💞️ Seeking to use proven skills in coding, data and complex problem solving to become a vital member of yourteam and meet business need as a full-stackdeveloper
 - 📫 How to reach me, dm me or send me an email at baimaxsolution@gmail
